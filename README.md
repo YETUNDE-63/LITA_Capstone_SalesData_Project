@@ -108,6 +108,13 @@ Some of the Sales Overview include:
 
 ![SALES OVERVIEW](https://github.com/user-attachments/assets/bcf22b50-3531-4546-8da1-f393346818c9)
 
+![REGIONAL BREAKDOWNS1](https://github.com/user-attachments/assets/104e401e-0fba-4aed-bd94-d62b96bbd9d7)
+
+![REGIONAL BREAKDOWNS2](https://github.com/user-attachments/assets/6fe85c04-ba46-4b9e-a004-7b5d1b1cfe23)
+
+![REGIONAL BREAKDOWNS3](https://github.com/user-attachments/assets/1bc5f581-47f9-46dc-bc97-988428b2444b)
+
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
