@@ -82,17 +82,18 @@ Some of the Sales Overview include:
 ### Data Analysis
 -----------------
 - This is where we included some basic lines of code or queries or even some of the DAX expressions used during the analysis.
-   - Example 1:
-   ~~~MS-EXCEL
-  =SUMIF(C2:C50001,C2:C7,H2:H50001)
-   ~~~
+  
+  - Example 1:
+    ~~~MS-EXCEL
+    =SUMIF(C2:C50001,C2:C7,H2:H50001)
+    ~~~
 
  - Example 2:
    ~~~POWER BI
    TopSalesProd = CONCATENATEX(TOPN(1, 'SalesData', [Sales]), [Product], )
    ~~~
 
-    - Example 3:
+- Example 3:
    ~~~SQL
    SELECT COLUMN1, 
    SUM(COLUMN2 AS [ALAS], (SUM(COLUMN2)/(SELECT SUM(COLUMN2) FROM TABLE1) *100)
@@ -100,7 +101,7 @@ Some of the Sales Overview include:
    from TABLE1
    GROUP BY COLUMN1
    ORDER BY SUM(COLUMN2) DESC
-~~~
+   ~~~
 
 ### Data Visualization
 -----------------------
