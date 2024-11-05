@@ -106,6 +106,7 @@ Some of the Sales Overview include:
 ### Data Visualization
 -----------------------
 
+![SALES OVERVIEW](https://github.com/user-attachments/assets/bcf22b50-3531-4546-8da1-f393346818c9)
 
 
 |Heading 1|Heading 2|Heading 3|
