@@ -107,6 +107,7 @@ Some of the Sales Overview include:
 ---------
 https://wesabimarket-my.sharepoint.com/:x:/r/personal/yetunde_wesabimarket_com_ng/Documents/Desktop/LITA/LITA%20PROJECTS/LITA%20Capstone%20Dataset%20SalesData.xlsx?d=we6cbf079ac2b4e54bbce280237ce54cc&csf=1&web=1&e=h7yaR2
 
+https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_ng/Documents/Documents/SQL%20Server%20Management%20Studio/SQLQuerySALESDATA.sql?csf=1&web=1&e=vfEhow
 
 ### Data Visualization
 -----------------------
