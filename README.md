@@ -9,7 +9,7 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleansing and Preparations](#data-cleansing-and-preparations)
+[Data Cleaning and Preparations](#data-cleansing-and-preparations)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
