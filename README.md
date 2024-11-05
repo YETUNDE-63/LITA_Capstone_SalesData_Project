@@ -103,6 +103,11 @@ Some of the Sales Overview include:
    ORDER BY SUM(COLUMN2) DESC
    ~~~
 
+### Links
+---------
+https://wesabimarket-my.sharepoint.com/:x:/r/personal/yetunde_wesabimarket_com_ng/Documents/Desktop/LITA/LITA%20PROJECTS/LITA%20Capstone%20Dataset%20SalesData.xlsx?d=we6cbf079ac2b4e54bbce280237ce54cc&csf=1&web=1&e=5flsVv
+
+
 ### Data Visualization
 -----------------------
 
