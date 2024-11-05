@@ -124,4 +124,5 @@ Some of the Sales Overview include:
 
 ### Acknowledgement
 -------------------
+I appreciate the Almighty God for the privilege to be part of this journey. My thanks also goes to The Incubator Hub, our Well-equipped Facilitators: Muhsin H. (Excel Facilitator); Femi Ayodele (SQL Facilitator); & Temidayo TeeDee Ayeni (Portfolio building - GItHub/Power BI Facilitator) for the great job done.
 
