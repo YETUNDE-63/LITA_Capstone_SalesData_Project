@@ -27,7 +27,7 @@
 -------------------
 This project is an integration of Excel, SQL and Power BI for analysing sales and visualizing the findings per product, & across the regions. It aims to generate insight into the sales performance of the LITA CAPSTONE Project over a period of time. 
 
-By analysing the various parameters in the data gotten from open source (Excel); to gather enough insightto make reasonable decisions which enables to tell compelling stories around the data from the insight gotten and to know the best performance from the data.
+By analysing the various parameters in the data gotten from open source (Excel); to gather enough insight to make reasonable decisions which enables to tell compelling stories around the data from the insight gotten and to know the best performance from the data.
 
 ### Data Sources
 ----------------
