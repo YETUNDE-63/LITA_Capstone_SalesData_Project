@@ -9,7 +9,7 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](#data-cleansing-and-preparations)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -58,7 +58,7 @@ The dataset for this project was of LITA Capstone - SALESDATA.csv. This included
 - GitHub
   - For Portfolio Building
 
-### Data Cleansing and Preparations
+### Data Cleaning and Preparations
 -----------------------------------
 - In the initial phase of the Data Cleaning and preparations, we perform the following actions:
   1. Data loading and inspection
